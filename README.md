@@ -8,6 +8,6 @@ CounterApp basically just a basic increment counting app. I built it with HTML, 
 - reset counting
 
 #Technologies 
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
