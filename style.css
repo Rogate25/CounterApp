@@ -41,6 +41,23 @@ body {
     border-radius: 8px;
     cursor: pointer;
     transition: all 0.3s ease;
+    margin-bottom: 10px;
+}
+
+#save-btn{
+    padding: 12px 30px;
+    font-size: 18px;
+    background: #73ea66;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#save-btn:hover {
+    background: #54cf32;
+    transform: scale(1.05);
 }
 
 #count-btn:hover {
